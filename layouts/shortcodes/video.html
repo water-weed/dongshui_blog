@@ -1,0 +1,5 @@
+<video controls width="{{ .Get "width" | default "640" }}">
+  <source src="/videos/{{ .Get "src" }}" type="video/mp4">
+  <source src="/videos/{{ .Get "src" }}" type="video/avi">
+  您的浏览器不支持 video 标签。
+</video>
