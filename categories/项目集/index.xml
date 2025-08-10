@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目集 on 东水的blog</title>
-    <link>https://example.org/categories/%E9%A1%B9%E7%9B%AE%E9%9B%86/</link>
+    <link>https://water-weed.github.io/blog/categories/%E9%A1%B9%E7%9B%AE%E9%9B%86/</link>
     <description>Recent content from 东水的blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Sat, 15 Jan 2022 11:00:00 -0700</lastBuildDate>
     
     
-    <atom:link href="https://example.org/categories/%E9%A1%B9%E7%9B%AE%E9%9B%86/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://water-weed.github.io/blog/categories/%E9%A1%B9%E7%9B%AE%E9%9B%86/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>Paper Earth</title>
-      <link>https://example.org/post/paper_earth/</link>
+      <link>https://water-weed.github.io/blog/post/paper_earth/</link>
       <pubDate>Sat, 15 Jan 2022 11:00:00 -0700</pubDate>
       <author>wwaeteed.r@gmail.com (东水)</author>
-      <guid>https://example.org/post/paper_earth/</guid>
+      <guid>https://water-weed.github.io/blog/post/paper_earth/</guid>
       <description>
         <![CDATA[<h1>Paper Earth</h1><p>作者：东水（wwaeteed.r@gmail.com）</p>
         
@@ -39,7 +39,7 @@
 素材参考: <a href="https://maaot.itch.io/fungal-grotto">https://maaot.itch.io/fungal-grotto</a><br>
 音乐和音效参考: <a href="https://www.bensound.com/">https://www.bensound.com/</a>   <a href="https://freesound.org/">https://freesound.org/</a></p>
         
-        <hr><p>本文2022-01-15首发于<a href='https://example.org/'>东水的blog</a>，最后修改于2022-01-15</p>]]>
+        <hr><p>本文2022-01-15首发于<a href='https://water-weed.github.io/blog/'>东水的blog</a>，最后修改于2022-01-15</p>]]>
       </description>
       
         <category>项目集</category>
