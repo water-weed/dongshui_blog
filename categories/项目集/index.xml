@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>项目集 on 东水的blog</title>
+    <link>https://example.org/categories/%E9%A1%B9%E7%9B%AE%E9%9B%86/</link>
+    <description>Recent content from 东水的blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>wwaeteed.r@gmail.com (东水)</managingEditor>
+    <webMaster>wwaeteed.r@gmail.com (东水)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Sat, 15 Jan 2022 11:00:00 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://example.org/categories/%E9%A1%B9%E7%9B%AE%E9%9B%86/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>Paper Earth</title>
+      <link>https://example.org/post/paper_earth/</link>
+      <pubDate>Sat, 15 Jan 2022 11:00:00 -0700</pubDate>
+      <author>wwaeteed.r@gmail.com (东水)</author>
+      <guid>https://example.org/post/paper_earth/</guid>
+      <description>
+        <![CDATA[<h1>Paper Earth</h1><p>作者：东水（wwaeteed.r@gmail.com）</p>
+        
+          <h2 id="基本信息">
+<a class="header-anchor" href="#%e5%9f%ba%e6%9c%ac%e4%bf%a1%e6%81%af"></a>
+基本信息
+</h2><p>游戏类型：单人2D横版游戏<br>
+引擎： UnrealEngine4<br>
+运行平台： PC Windows(64-bit)<br>
+素材参考: <a href="https://maaot.itch.io/fungal-grotto">https://maaot.itch.io/fungal-grotto</a><br>
+音乐和音效参考: <a href="https://www.bensound.com/">https://www.bensound.com/</a>   <a href="https://freesound.org/">https://freesound.org/</a></p>
+        
+        <hr><p>本文2022-01-15首发于<a href='https://example.org/'>东水的blog</a>，最后修改于2022-01-15</p>]]>
+      </description>
+      
+        <category>项目集</category>
+      
+    </item>
+    
+  </channel>
+</rss>
